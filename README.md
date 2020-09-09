@@ -23,9 +23,6 @@
 *[Omni Theme](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni) <br>
 *[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) <br>
 *[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) <br>
-
-<br>
-
 ### Bom, essa aqui é a terceira lista de atividades da matéria de Linguagens de programação da SATC: 
 *
 *
