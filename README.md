@@ -19,5 +19,5 @@ Scripts principalmente relacionados a convers√£o de unidades de medida com exce√
 ### Com isso resolvido, iniciemos:
 
 <p align = "center">
-    <img src="https://giphy.com/gifs/pixel-art-8bit-mictlan-3oriO01iyPI9sEn3Pi" width="350" height="350" />
+    <img src="https://media.giphy.com/media/3oriO01iyPI9sEn3Pi/giphy.gif" />
 </p>
