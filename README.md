@@ -1,8 +1,6 @@
-<head>
-</head>
-<body bgcolor="#000000">
 <p align = "center">
-    <img src="https://web.satc.edu.br/wp-content/uploads/2019/04/cropped-logoasatc.png">
+    <a href="https://web.satc.edu.br" target="_blank">
+        <img src="https://web.satc.edu.br/wp-content/uploads/2019/04/cropped-logoasatc.png">
 </p>
 
 ### Made by: [Henrique Bitencourt](https://www.instagram.com/hxnrxqxx._/)
@@ -31,4 +29,3 @@
 <p align = "center">
     <img src="https://media.giphy.com/media/3oriO01iyPI9sEn3Pi/giphy.gif" />
 </p>
-</body>
