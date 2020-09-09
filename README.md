@@ -5,7 +5,7 @@
     <img src="https://web.satc.edu.br/wp-content/uploads/2019/04/cropped-logoasatc.png">
 </p>
 
-### Made by: Henrique Bitencourt
+### Made by: [Henrique Bitencourt](https://www.instagram.com/hxnrxqxx._/)
 ### Turma: 2137
 ### Dia: 09/09/2020
 ### Curso técnico de informática SATC
@@ -18,13 +18,14 @@
 
 <br>
 
-### Bom, essa aqui é a terceira atividade da matéria de Linguagens de programação da SATC: 
-<br>
-
-<h ref="https://www.instagram.com/satceducacao/" target="_blanc">
-    <img src="https://web.satc.edu.br/wp-content/uploads/2019/01/034-instagram.png" alt="instagram satc">
-
-
+### Bom, essa aqui é a terceira lista de atividades da matéria de Linguagens de programação da SATC: 
+*
+*
+*
+*
+*
+*
+*
 <br>
 
 <p align = "center">
