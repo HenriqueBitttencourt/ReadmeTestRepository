@@ -10,7 +10,7 @@
 ### Curso técnico de informática SATC
 
 <a href="https://wa.me/5548996971730" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1584/PNG/128/3721678-whatsapp_108065.png" width="15px" heitgh="15px">
+    <img src="https://cdn.icon-icons.com/icons2/1584/PNG/128/3721678-whatsapp_108065.png" width="50px" heitgh="50px">
 </a>
 <br>
 
