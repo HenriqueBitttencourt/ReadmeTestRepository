@@ -4,11 +4,11 @@
 <p align = "center">
     <img src="https://web.satc.edu.br/wp-content/uploads/2019/04/cropped-logoasatc.png">
 </p>
-<p align="left">
+
 ### Made by: Henrique Bitencourt <br>
 ### Turma: 2137 <br>
 ### Dia: 09/09/2020 <br>
-</p>
+### Curso técnico de informática SATC
 
 
 <br><br>
