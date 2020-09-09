@@ -10,7 +10,12 @@
 
 <br><br>
 
-### Bom, essa aqui é a terceira atividade da matéria de Linguagens de programação da [SATC](https://web.satc.edu.br)
+### Bom, essa aqui é a terceira atividade da matéria de Linguagens de programação da SATC: 
+<br>
+
+<h ref="https://www.instagram.com/satceducacao/" target="_blanc">
+    <img src="https://web.satc.edu.br/wp-content/uploads/2019/01/034-instagram.png" alt="instagram satc">
+
 
 <br>
 
