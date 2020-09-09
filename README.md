@@ -5,9 +5,11 @@
     <img src="https://web.satc.edu.br/wp-content/uploads/2019/04/cropped-logoasatc.png">
 </p>
 <p align="left">
+<font color="#40E0D0">
 Made by: Henrique Bitencourt <br>
 Turma: 2137 <br>
 Dia: 09/09/2020 <br>
+</font>
 </p>
 
 
