@@ -17,12 +17,12 @@
 ### Tudo nesse repositório é: [![made-with-python](https://img.shields.io/badge/Feito%20com-Python%203-darkgreen)](https://www.python.org)
 
 ### Programas e extensões utilizadas na produção: 
-*[Visual Studio Code](https://code.visualstudio.com)
-*[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-*[MaterialIconTheme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-*[Omni Theme](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni)
-*[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-*[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)s
+*[Visual Studio Code](https://code.visualstudio.com) <br>
+*[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) <br>
+*[MaterialIconTheme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>
+*[Omni Theme](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni) <br>
+*[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) <br>
+*[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) <br>
 
 <br>
 
