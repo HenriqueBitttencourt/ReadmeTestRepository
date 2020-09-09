@@ -10,7 +10,8 @@
 ### Curso técnico de informática SATC
 
 <a href="https://wa.me/5548996971730" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1584/PNG/128/3721678-whatsapp_108065.png">
+    <img src="https://cdn.icon-icons.com/icons2/1584/PNG/128/3721678-whatsapp_108065.png" width="15px" heitgh="15px">
+</a>
 <br>
 
 ### Tudo nesse repositório é: [![made-with-python](https://img.shields.io/badge/Feito%20com-Python%203-darkgreen)](https://www.python.org)
