@@ -4,19 +4,15 @@
 
 <br><br>
 
-### Tudo nesse repositório é:[![made-with-python](https://img.shields.io/badge/Feito%20com-Python%203-darkgreen)](https://www.python.org)
+### Tudo nesse repositório é: [![made-with-python](https://img.shields.io/badge/Feito%20com-Python%203-darkgreen)](https://www.python.org)
 
-### Portanto, caso não o tenha instalado [clique aqui](https://wiki.python.org/moin/BeginnersGuide)
+### Então, se ainda não instalou: [clique aqui](https://wiki.python.org/moin/BeginnersGuide)
 
 <br><br>
 
-## Primeiro uma curta descrição:
-
-Scripts principalmente relacionados a conversão de unidades de medida com exceções do penultimo, que calcula média aritmética, e do último que envolve conversão monetária.
+### Bom, essa aqui é a terceira atividade da matéria de Linguagens de programação da [SATC](https://web.satc.edu.br)
 
 <br>
-
-### Com isso resolvido, iniciemos:
 
 <p align = "center">
     <img src="https://media.giphy.com/media/3oriO01iyPI9sEn3Pi/giphy.gif" />
