@@ -5,13 +5,12 @@
     <img src="https://web.satc.edu.br/wp-content/uploads/2019/04/cropped-logoasatc.png">
 </p>
 
-### Made by: Henrique Bitencourt <br>
-### Turma: 2137 <br>
-### Dia: 09/09/2020 <br>
+### Made by: Henrique Bitencourt
+### Turma: 2137
+### Dia: 09/09/2020
 ### Curso técnico de informática SATC
 
-
-<br><br>
+<br>
 
 ### Tudo nesse repositório é: [![made-with-python](https://img.shields.io/badge/Feito%20com-Python%203-darkgreen)](https://www.python.org)
 
