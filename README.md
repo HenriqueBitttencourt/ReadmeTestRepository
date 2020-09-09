@@ -7,7 +7,7 @@
 ### Made by: [Henrique Bitencourt](https://www.instagram.com/hxnrxqxx._/)
 ### Turma: 2137
 ### Dia: 09/09/2020
-### Curso técnico de informática SATC
+### [Curso técnico de informática SATC](https://www.instagram.com/infosatc/)
 
 <a href="https://wa.me/5548996971730" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1584/PNG/128/3721678-whatsapp_108065.png" width="40px" heitgh="40px">
